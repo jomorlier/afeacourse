@@ -9,6 +9,13 @@ LECTURES
 
 Linear FEA rod, beam, membrane, shell [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
+LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
+
+You can also find on LMS Lecture Note on Finite element + Nastran
+LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
+
+https://v2.overleaf.com/project/57fe421839536a6d421c2734
+
 ## MORE ADVANCED MATERIALS 
 
 Lessons on:
@@ -44,12 +51,6 @@ https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
 REFERENCES
 ****
 
-LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
-
-You can also find on LMS Lecture Note on Finite element + Nastran
-LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
-
-https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
 I strongly recommend to read and learn from this MIT's book
 
