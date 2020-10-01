@@ -26,7 +26,7 @@ Nonlinear analysis stress, buckling [Course3](https://github.com/jomorlier/afeac
 
 Structural and Topology Optimization [Course4](https://github.com/jomorlier/afeacourse/blob/master/TopOpt/Course4.md)
 
-Workshop on:
+Workshops on:
 
 Airbus Overview on CSM (1H)
 
@@ -36,8 +36,20 @@ V&V in FEA (1H)
 
 
 ****
-Nastran and Abaqus available on LMS SUPAERO's moodle 
+Exercices
 ****
+
+You can find on LMS the full content of the handwritten exercices on FEA.
+EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
+
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
+
+****
+Computer Labs
+****
+
+Nastran and Abaqus assignements will be available on LMS SUPAERO's moodle 
 
 
 ****
@@ -56,10 +68,6 @@ I strongly recommend to read and learn from this MIT's book
 
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 
-You can find on LMS the full content of the handwritten exercices on FEA.
-EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
-
-https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
 
 
