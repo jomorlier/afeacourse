@@ -40,7 +40,10 @@ REFERENCES
 
 LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
 
-LECTURE NOTE [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
+You can also find on LMS Lecture Note on Finite element + Nastran
+LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
+
+https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
 I strongly recommend to read and learn from this MIT's book
 
@@ -51,10 +54,7 @@ EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.p
 
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
-You can also find on LMS Lecture Note on Finite element + Nastran
-LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
 
-https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
 
 
