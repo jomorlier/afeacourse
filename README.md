@@ -2,12 +2,6 @@
 Advanced Computational Structural Mechanics Course 
 
 ****
-POPULARIZATION
-****
-
-https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
-
-****
 LECTURES
 ****
 
@@ -37,6 +31,14 @@ V&V in FEA (1H)
 ****
 Nastran and Abaqus available on LMS SUPAERO's moodle 
 ****
+
+
+****
+POPULARIZATION
+****
+
+https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
+
 
 ****
 REFERENCES
