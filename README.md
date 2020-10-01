@@ -11,17 +11,21 @@ https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
 LECTURES
 ****
 
-## RECAP
+## RECAP of Linear FEA
 
-https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md
+[Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 ## MORE ADVANCED MATERIALS 
 
-Vibration and transient analysis (3H)
+Lessons on:
 
-Nonlinear analysis stress, buckling (3H)
+Vibration and transient analysis [Course2](https://github.com/jomorlier/afeacourse/blob/master/Vibration/Course2.md)
 
-Structural and Topology Optimization (3H)
+Nonlinear analysis stress, buckling [Course3](https://github.com/jomorlier/afeacourse/blob/master/Nonlinear/Course3.md)
+
+Structural and Topology Optimization [Course2](https://github.com/jomorlier/afeacourse/blob/master/TopOpt/Course4.md)
+
+Workshop on:
 
 Airbus Overview on CSM (1H)
 
