@@ -17,7 +17,7 @@ Vibration and transient analysis [Course2](https://github.com/jomorlier/afeacour
 
 Nonlinear analysis stress, buckling [Course3](https://github.com/jomorlier/afeacourse/blob/master/Nonlinear/Course3.md)
 
-Structural and Topology Optimization [Course2](https://github.com/jomorlier/afeacourse/blob/master/TopOpt/Course4.md)
+Structural and Topology Optimization [Course4](https://github.com/jomorlier/afeacourse/blob/master/TopOpt/Course4.md)
 
 Workshop on:
 
