@@ -11,9 +11,9 @@ https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
 LECTURES
 ****
 
-## RECAP of Linear FEA
+## RECAP
 
-[Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+Linear FEA rod, beam, membrane, shell [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 ## MORE ADVANCED MATERIALS 
 
