@@ -14,7 +14,7 @@ LECTURES
 
 ## RECAP
 
-
+https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md
 
 ## MORE ADVANCED MATERIALS 
 
