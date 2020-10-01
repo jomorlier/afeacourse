@@ -12,6 +12,7 @@ LECTURES
 ****
 
 
+
 ## RECAP
 
 https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md
@@ -19,10 +20,15 @@ https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md
 ## MORE ADVANCED MATERIALS 
 
 Vibration and transient analysis
+
 Nonlinear analysis stress, buckling
+
 Structural and Topology Optimization
+
 Airbus Overview on CSM
+
 FEA for Multiphysics applications
+
 V&V in FEA
 
 ****
