@@ -7,13 +7,13 @@ LECTURES
 
 ## RECAP of CSM
 
-course0b: FEA basics + formal approach for rod
+[Course0b](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0b_Prof.pdf): FEA basics + formal approach for rod 
 
-Exercice0b Matlab's skeleton
+Exercice0b start from scratch
 
-Course0c: Formal approach for beam, + 2D membrane
+[Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0c.pdf): Formal approach for beam, + 2D membrane
 
-Exercice0c Matlab's skeleton 
+Exercice0c Matlab's ZIP
 
 
 Online Review until 13th of october [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
