@@ -7,7 +7,16 @@ LECTURES
 
 ## RECAP of CSM
 
-Linear FEA rod, beam, membrane, shell [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+course0b: FEA basics + formal approach for rod
+
+Exercice0b Matlab's skeleton
+
+Course0c: Formal approach for beam, + 2D membrane
+
+Exercice0c Matlab's skeleton 
+
+
+Online Review until 13th of october [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
 
