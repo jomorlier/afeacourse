@@ -11,7 +11,7 @@ LECTURES
 
 Exercice0b start from scratch
 
-[Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0c.pdf): Formal approach for beam, + 2D membrane
+[Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course0c.pdf): Formal approach for beam, + 2D membrane
 
 Exercice0c Matlab's ZIP
 
