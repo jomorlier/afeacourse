@@ -18,7 +18,7 @@ Exercice0b start from scratch (upload on LMS until 7th of october)
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
 
-#Online learning until 20th of october [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+#Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 
 ****
