@@ -19,7 +19,7 @@ correction of [Numerical integration exercice](https://github.com/jomorlier/afea
 --> mlx also available
 
 
-
+<span style="color:red">some **This is really IMPORTANT.** text</span>
 
 Online Review until 20th of october [Course1](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
