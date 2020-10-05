@@ -9,7 +9,7 @@ LECTURES
 
 [Course0b](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0b_Prof.pdf): FEA basics + formal approach for rod 
 
-Exercice0b start from scratch (upload to LMS until 7th of october)
+Exercice0b start from scratch (upload on LMS until 7th of october)
 
 
 [Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course0c.pdf): Formal approach for beam, 2D membrane
@@ -18,7 +18,6 @@ Exercice0b start from scratch (upload to LMS until 7th of october)
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
 
-Exercice0c Matlab's ZIP(upload to LMS until 23th of october)
 
 
 
