@@ -18,6 +18,10 @@ Exercice0b start from scratch (upload on LMS until 7th of october)
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
 
+2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
+--> modify the livescript main cantilever beam ONLY 
+[code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
+
 #Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 
