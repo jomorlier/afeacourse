@@ -18,6 +18,14 @@ Exercice0b start from scratch (upload on LMS until 7th of october)
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
 
+Correction of 
+[CST analytics](http://htmlpreview.github.io/?https://github.com/jomorlier/afeacourse/blob/master/RECAP/CSTanalytics.html)
+
+Correction of 
+[CST exercice from Logan's book p364](http://htmlpreview.github.io/?https://github.com/jomorlier/afeacourse/blob/master/RECAP/CST_Logan.html)
+
+Can you try with Q4 ???
+
 2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
 --> modify the livescript main cantilever beam ONLY 
 [code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
