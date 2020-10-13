@@ -7,13 +7,17 @@ LECTURES
 
 ## RECAP of CSM
 
+#Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+
+#Lessons
+
 [Course0b](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0b_Prof.pdf): FEA basics + formal approach for rod 
 
 Exercice0b start from scratch (upload on LMS until 7th of october)
 
-
 [Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course0c.pdf): Formal approach for beam, 2D membrane
 
+#Correction of small exercices during lessons
 
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
@@ -26,6 +30,8 @@ Correction of
 
 *Can you try with Q4 ???
 
+#Assignements
+
 2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
 --> modify the livescript main cantilever beam ONLY 
 
@@ -35,7 +41,10 @@ Correction of
 
 [code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
 
-#Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+#Class Exercices 
+[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
+
+
 
 
 ****
