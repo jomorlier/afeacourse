@@ -24,11 +24,15 @@ Correction of
 Correction of 
 [CST exercice from Logan's book p364](http://htmlpreview.github.io/?https://github.com/jomorlier/afeacourse/blob/master/RECAP/CST_Logan.html)
 
-Can you try with Q4 ???
+*Can you try with Q4 ???
 
 2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
 --> modify the livescript main cantilever beam ONLY 
+
 [Amanote Audio](https://app.amanote.com/note-taking/document/5c1440e1-b1e5-4e6b-97fa-b34eb34fbc47)
+
+*THE Q3 is A BONUS !!!
+
 [code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
 
 #Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
