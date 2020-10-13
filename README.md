@@ -2,14 +2,18 @@
 Advanced Computational Structural Mechanics Course 
 
 ****
+ONLINE REVIEW
+****
+
+Online learning until 20th of october 
+
+[LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+
+****
 LECTURES
 ****
 
-## RECAP of CSM
-
-#Online learning until 20th of october [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
-
-#Lessons
+## Lessons
 
 [Course0b](https://github.com/jomorlier/afeacourse/blob/master/RECAP/course0b_Prof.pdf): FEA basics + formal approach for rod 
 
@@ -17,7 +21,7 @@ Exercice0b start from scratch (upload on LMS until 7th of october)
 
 [Course0c](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course0c.pdf): Formal approach for beam, 2D membrane
 
-#Correction of small exercices during lessons
+## Correction of small exercices
 
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
@@ -30,7 +34,10 @@ Correction of
 
 *Can you try with Q4 ???
 
-#Assignements
+
+****
+Assignements
+****
 
 2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
 --> modify the livescript main cantilever beam ONLY 
@@ -39,12 +46,7 @@ Correction of
 
 *THE Q2 and Q3 are BONUS !!! (in blue)
 
-[code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
-
-#Class Exercices 
-[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
-
-
+[code to start](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
 
 
 ****
@@ -81,6 +83,10 @@ V&V in FEA (1H)
 ****
 Exercices
 ****
+
+#Class Exercices 
+[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
+
 
 You can find on LMS the full content of the handwritten exercices on FEA.
 EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
