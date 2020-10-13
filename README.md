@@ -5,9 +5,7 @@ Advanced Computational Structural Mechanics Course
 ONLINE REVIEW
 ****
 
-Online learning until 20th of october 
-
-[LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
+until 4th of november [LINEAR FEA](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Course1.md)
 
 ****
 LECTURES
@@ -36,9 +34,12 @@ Correction of
 
 
 ****
-Assignements
+MATLAB Assignements
 ****
 
+#1 during class, upload on LMS, DONE.
+
+#2 for the 23th of october
 2D Membrane using QUAD on matlab [Assignement 2](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.pdf)
 --> modify the livescript main cantilever beam ONLY 
 
@@ -47,6 +48,20 @@ Assignements
 *THE Q2 and Q3 are BONUS !!! (in blue)
 
 [code to start](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
+
+****
+Exercices
+****
+
+#Class Exercices 
+[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
+
+
+You can find on LMS the full content of the handwritten exercices on FEA.
+EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
+
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
 
 
 ****
@@ -79,19 +94,6 @@ FEA for Multiphysics applications (1H)
 
 V&V in FEA (1H)
 
-
-****
-Exercices
-****
-
-#Class Exercices 
-[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
-
-
-You can find on LMS the full content of the handwritten exercices on FEA.
-EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
-
-https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
 
 ****
