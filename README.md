@@ -31,7 +31,7 @@ Correction of
 
 [Amanote Audio](https://app.amanote.com/note-taking/document/5c1440e1-b1e5-4e6b-97fa-b34eb34fbc47)
 
-*THE Q3 is A BONUS !!!
+*THE Q2 and Q3 are BONUS !!! (in blue)
 
 [code](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
 
