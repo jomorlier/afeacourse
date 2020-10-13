@@ -54,7 +54,7 @@ Exercices
 ****
 
 #Class Exercices 
-[Amanote Audio](https://app.amanote.com/note-taking/document/2bae7ea7-2bc1-4449-b21d-762ba4291f8c)
+[Amanote Audio](https://app.amanote.com/note-taking/document/0348ee16-1b1d-4a16-ae64-5af3abb4cc96)
 
 
 You can find on LMS the full content of the handwritten exercices on FEA.
