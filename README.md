@@ -49,6 +49,8 @@ MATLAB Assignements
 
 [code to start](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement2.zip)
 
+https://caeuniversity.com/mesh-convergence-modern/
+
 ****
 Exercices
 ****
