@@ -55,9 +55,11 @@ https://caeuniversity.com/mesh-convergence-modern/
 Exercices
 ****
 
-#Class Exercices 
+#Class Exercices 1/2
 [Amanote Audio](https://app.amanote.com/note-taking/document/f7797fc3-cbad-467c-8509-b5e66f34e2bf)
 
+#Class Exercices 3
+[pdf](https://github.com/jomorlier/afeacourse/blob/master/RECAP/FEA%20modeling%20best%20practice%20(1).pdf)
 
 You can find on LMS the full content of the handwritten exercices on FEA.
 EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
