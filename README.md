@@ -106,6 +106,37 @@ Computer Labs
 
 Nastran and Abaqus assignements will be available on LMS SUPAERO's moodle 
 
+NASTRAN Computer lab 1/3
+Nastran statics bdf	Mercredi 18 novembre 2020	09h00	1,00	JFP
+Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/97367197926
+La partie audio de la conférence peut être rejointe par téléphone.
+Le numéro de réunion est le : 97367197926
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
+
+NASTRAN Computer lab 2/3
+Nastran statics bdf	Lundi 30 novembre 2020	13h30	1,00	JFP
+Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/96266906003
+La partie audio de la conférence peut être rejointe par téléphone.
+Le numéro de réunion est le : 96266906003
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
+
+NASTRAN Computer lab 3/3
+*marked
+
+Patran Modal analysis	Vendredi 4 décembre 2020	14h00	1,00	JFP
+Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/94973560963
+La partie audio de la conférence peut être rejointe par téléphone.
+Le numéro de réunion est le : 94973560963
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
 
 ****
 POPULARIZATION
