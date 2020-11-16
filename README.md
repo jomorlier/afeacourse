@@ -117,7 +117,7 @@ France : +33 1 7037 2246
 France : +33 1 7037 9729
 
 NASTRAN Computer lab 2/3
-Nastran statics bdf	Lundi 30 novembre 2020	13h30	1,00	JFP
+Patran I-beam modeling	Lundi 30 novembre 2020	13h30	1,00	JFP
 Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/96266906003
 La partie audio de la conférence peut être rejointe par téléphone.
 Le numéro de réunion est le : 96266906003
@@ -127,7 +127,7 @@ France : +33 1 7037 2246
 France : +33 1 7037 9729
 
 NASTRAN Computer lab 3/3
-*marked
+*marked, report for the 18th of december 2020
 
 Patran Modal analysis	Vendredi 4 décembre 2020	14h00	1,00	JFP
 Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/94973560963
