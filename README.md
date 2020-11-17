@@ -105,7 +105,7 @@ Computer Labs
 ****
 
 
-Practice with MsC Nastran, Abaqus and Optistruct [Info] (https://github.com/jomorlier/afeacourse/blob/master/Computerlab/Info.md)
+Practice with MsC Nastran, Abaqus and Optistruct [Info](https://github.com/jomorlier/afeacourse/blob/master/Computerlab/Info.md)
 
 ****
 POPULARIZATION
