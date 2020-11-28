@@ -95,8 +95,22 @@ Workshops on:
 Airbus Overview on CSM (1H)
 
 FEA for Multiphysics applications (1H)
+Please join ZOOM MS AES Remote lecture/SA403 Adv comp Struct Mech le 16/12/2020, le 16/12/2020 à 10:00.
+ https://isae-supaero.zoom.us/j/92129421386
+AUDIO : 92129421386
+tel: ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
 
 V&V in FEA (1H)
+Please join ZOOM MS AES Remote lecture/SA403 Adv comp Struct Mech le 18/12/2020, le 18/12/2020 à 10:30.
+ https://isae-supaero.zoom.us/j/92076673475
+AUDIO : 92076673475
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
 
 
 
