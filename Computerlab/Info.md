@@ -62,3 +62,15 @@ pwd : 091670
         +33 1 8699 5831 France
         
 more info: https://zoom.us/u/abqK48nQt0
+
+# OPTISTRUCT Computer lab 1/2 
+Vous êtes invité à rejoindre la web-conférence ZOOM MS AES Remote lecture/SA403 Adv comp Struct Mech le 07/12/2020, le 07/12/2020 à 13:30.
+
+Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/93682725496
+
+La partie audio de la conférence peut être rejointe par téléphone.
+Le numéro de réunion est le : 93682725496
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
