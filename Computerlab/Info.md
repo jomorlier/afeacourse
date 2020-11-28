@@ -74,3 +74,15 @@ Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
 France : +33 7 5678 4048
 France : +33 1 7037 2246
 France : +33 1 7037 9729
+
+# OPTISTRUCT Computer lab 2/2 
+Vous êtes invité à rejoindre la web-conférence ZOOM MS AES Remote lecture/SA403 Adv comp Struct Mech le 14/12/2020, le 14/12/2020 à 09:00.
+
+Pour rejoindre la conférence : https://isae-supaero.zoom.us/j/98246947252
+
+La partie audio de la conférence peut être rejointe par téléphone.
+Le numéro de réunion est le : 98246947252
+Voici une liste de numéros permettant de rejoindre la conférence ZOOM :
+France : +33 7 5678 4048
+France : +33 1 7037 2246
+France : +33 1 7037 9729
