@@ -73,7 +73,7 @@ TO PRINT
 ****
 
 Please print and read theses 2 notes
-LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
+LECTURE NOTE [Theory](https://github.com/jomorlier/feacourse/blob/master/Courses/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
 
 You can also find on LMS Lecture Note on Finite element + Nastran
 LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
