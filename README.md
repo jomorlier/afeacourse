@@ -1,4 +1,4 @@
-# afeacourse 2020
+# afeacourse
 Advanced Computational Structural Mechanics Course 
 
 ****
